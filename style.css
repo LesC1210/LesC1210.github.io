@@ -1,0 +1,21 @@
+h1 {
+	background-color:  #9542f4;
+	text-align: center;
+	font-family: Georgia;
+	color: blue;
+
+}
+
+html {
+	background: yellow;
+	text-align: center;
+}
+
+#list{
+	text-align: left;
+	color: red;
+}
+
+#pic{
+	box-shadow: 40%;
+}
